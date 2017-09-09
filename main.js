@@ -1,0 +1,1 @@
+var calculator = prompt('Welcome to the Calulator. Let me just take some input from you')
